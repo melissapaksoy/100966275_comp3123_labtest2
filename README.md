@@ -103,15 +103,6 @@ PostmanToronto.png
 - Debugging imports + environment setup  
 - Building a responsive and aesthetic interface
 
----
-
-## ⭐ Future Enhancements
-
-- 5-day forecast
-- Weather-based animated backgrounds
-- Celsius ↔ Fahrenheit toggle
-- Saved cities list
-- Dark mode theme
 
 ---
 
