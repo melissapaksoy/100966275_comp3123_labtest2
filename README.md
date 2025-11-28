@@ -77,6 +77,7 @@ http://localhost:5174
 
 ## 📸 Screenshots
 
+
 | Munich | Detroit |
 |-------|----------|
 | ![Munich](./screenshots/Munich.png) | ![Detroit](./screenshots/Detroit.png) |
@@ -85,6 +86,12 @@ http://localhost:5174
 |---------|----------|----------|
 | ![Belgrade](./screenshots/Belgrade.png) | ![Istanbul](./screenshots/Istanbul.png) | ![Toronto](./screenshots/Toronto.png) |
 
+
+| Postman Toronto | Postman Istanbul | Postman Munich|
+|---------|----------|----------|
+| ![Toronto](./screenshots/PostmanToronto.png) | ![Istanbul](./screenshots/PostmanIstanbul.png) | ![Munich](./screenshots/PostmanMunich.png) |
+
+PostmanToronto.png
 
 ---
 
