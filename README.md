@@ -79,11 +79,11 @@ http://localhost:5174
 
 | Munich | Detroit |
 |-------|----------|
-| ![Munich](./screenshots/munich.png) | ![Detroit](./screenshots/detroit.png) |
+| ![Munich](screenshots/munich.png) | ![Detroit](screenshots/detroit.png) |
 
 | Belgrade | Istanbul | Toronto |
 |---------|----------|----------|
-| ![Belgrade](./screenshots/belgrade.png) | ![Istanbul](./screenshots/istanbul.png) | ![Toronto](./screenshots/toronto.png) |
+| ![Belgrade](screenshots/belgrade.png) | ![Istanbul](screenshots/istanbul.png) | ![Toronto](screenshots/toronto.png) |
 
 
 ---
